@@ -1,0 +1,11 @@
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/IndexerTests.dll
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/IndexerTests.pdb
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/Indexer.exe
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/nunit.framework.dll
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/Indexer.pdb
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/Indexer.exe.config
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/bin/Debug/nunit.framework.xml
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/obj/Debug/IndexerTests.csprojAssemblyReference.cache
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/obj/Debug/IndexerTests.csproj.CopyComplete
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/obj/Debug/IndexerTests.dll
+/Applications/Prog/Code/2 курс/repos/Indexer/IndexerTests/obj/Debug/IndexerTests.pdb

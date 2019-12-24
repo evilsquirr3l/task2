@@ -1,0 +1,13 @@
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/bin/Debug/Indexer.exe.config
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/bin/Debug/Indexer.exe
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/bin/Debug/Indexer.pdb
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/obj/Debug/Indexer.csprojAssemblyReference.cache
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/obj/Debug/Indexer.csproj.CoreCompileInputs.cache
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/obj/Debug/Indexer.exe
+C:/Users/evilsquirrel/source/repos/Indexer/Indexer/obj/Debug/Indexer.pdb
+/Applications/Prog/Code/2 курс/repos/Indexer/Indexer/bin/Debug/Indexer.exe.config
+/Applications/Prog/Code/2 курс/repos/Indexer/Indexer/bin/Debug/Indexer.exe
+/Applications/Prog/Code/2 курс/repos/Indexer/Indexer/bin/Debug/Indexer.pdb
+/Applications/Prog/Code/2 курс/repos/Indexer/Indexer/obj/Debug/Indexer.csprojAssemblyReference.cache
+/Applications/Prog/Code/2 курс/repos/Indexer/Indexer/obj/Debug/Indexer.exe
+/Applications/Prog/Code/2 курс/repos/Indexer/Indexer/obj/Debug/Indexer.pdb
