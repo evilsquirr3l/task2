@@ -1,2 +1,2 @@
 # task2
-Binary tree
+Binary tree + User collection
