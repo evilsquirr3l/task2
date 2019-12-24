@@ -1,0 +1,20 @@
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe.config
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.pdb
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csprojAssemblyReference.cache
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csproj.CoreCompileInputs.cache
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.exe
+C:/Users/evilsquirrel/source/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.pdb
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe.config
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.pdb
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csprojAssemblyReference.cache
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csproj.CoreCompileInputs.cache
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.exe
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.exe
+/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe.config
+/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.exe
+/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/bin/Debug/BinaryTree.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/BinaryTree/obj/Debug/BinaryTree.csprojAssemblyReference.cache

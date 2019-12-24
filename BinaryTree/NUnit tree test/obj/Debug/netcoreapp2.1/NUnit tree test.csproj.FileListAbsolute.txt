@@ -1,0 +1,56 @@
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csprojAssemblyReference.cache
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csproj.CoreCompileInputs.cache
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.AssemblyInfoInputs.cache
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.AssemblyInfo.cs
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.deps.json
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.runtimeconfig.json
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.runtimeconfig.dev.json
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.dll
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.pdb
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.exe
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.pdb
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.exe.config
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csproj.CopyComplete
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.dll
+C:/Users/evilsquirrel/source/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.pdb
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.deps.json
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.runtimeconfig.json
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.runtimeconfig.dev.json
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.dll
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.pdb
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.exe
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.pdb
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.exe.config
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csprojAssemblyReference.cache
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csproj.CoreCompileInputs.cache
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.AssemblyInfoInputs.cache
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.AssemblyInfo.cs
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csproj.CopyComplete
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.dll
+//Mac/AllFiles/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.dll
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit3.TestAdapter.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/nunit.engine.netstandard.dll
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/Mono.Cecil.dll
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.deps.json
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.runtimeconfig.json
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.runtimeconfig.dev.json
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.dll
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/NUnit tree test.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.exe
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.pdb
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/bin/Debug/netcoreapp2.1/BinaryTree.exe.config
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csprojAssemblyReference.cache
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.AssemblyInfoInputs.cache
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.AssemblyInfo.cs
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.csproj.CopyComplete
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.dll
+/Applications/Prog/Code/2 курс/repos/BinaryTree/NUnit tree test/obj/Debug/netcoreapp2.1/NUnit tree test.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTree", "BinaryTree\BinaryTree.csproj", "{2ACD76E7-A14A-4E6B-AC9B-25D9193B51DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit tree test", "NUnit tree test\NUnit tree test.csproj", "{BFE8A539-CBE9-48A9-90F2-29BA37012CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2ACD76E7-A14A-4E6B-AC9B-25D9193B51DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACD76E7-A14A-4E6B-AC9B-25D9193B51DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACD76E7-A14A-4E6B-AC9B-25D9193B51DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACD76E7-A14A-4E6B-AC9B-25D9193B51DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE8A539-CBE9-48A9-90F2-29BA37012CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE8A539-CBE9-48A9-90F2-29BA37012CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE8A539-CBE9-48A9-90F2-29BA37012CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE8A539-CBE9-48A9-90F2-29BA37012CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C6D1E1-412C-40AB-8C49-E1C859B44641}
+	EndGlobalSection
+EndGlobal

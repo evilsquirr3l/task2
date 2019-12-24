@@ -1,0 +1,7 @@
+﻿namespace BinaryTree
+{
+    class TreeTests
+    {
+
+    }
+}
